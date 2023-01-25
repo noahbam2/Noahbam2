@@ -1,4 +1,4 @@
-# Hello my name is Noah Mcmahan
+# Hello my name is Noah Mcmahan 👋
 
 ### College: RVCC
 ### Major: Computer science (Information systems and Technology)
@@ -7,7 +7,7 @@
 
 ### I like to do 3d modelling & procedural art with specifically creating shaders and creating procedural 3d art. Most of my projects are publicly visible on discord.
 
-## Screenshots of my projects
+## Screenshots of my projects ⬇️
 
 ![bricks](https://user-images.githubusercontent.com/52337262/214467587-a76d243e-3881-473a-8a7a-907be34653d7.png)
 ![clouds](https://user-images.githubusercontent.com/52337262/214467637-5ca4237a-11ba-45b9-a21c-6c90ca78d87e.png)
